@@ -3,7 +3,7 @@ SOA PHP realization services
 
 # Developer Workspace
 
-[![Contribute](http://www.appservgrid.com/images.svg)](http://www.appservgrid.com/paw3)
+[![Contribute](http://www.appservgrid.com/images/devlogo.svg)](http://www.appservgrid.com/paw3)
 
 # Recipe
 
