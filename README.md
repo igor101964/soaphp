@@ -1,5 +1,5 @@
-# web-php-apache2-simple
-A hello world PHP script
+# soaphp
+SOA PHP realization services
 
 # Developer Workspace
 
@@ -20,3 +20,7 @@ FROM [codenvy/php](https://hub.docker.com/r/codenvy/php/)
 # Preview URL
 
 localhost:$mappedPort/$projectName
+
+# DB access
+
+To access database, run `env | grep MYSQL` in the terminal. You will get MySQL user, password and database. `root` user is passwordless.
