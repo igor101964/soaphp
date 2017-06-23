@@ -7,7 +7,7 @@ SOA PHP realization services
 
 # Recipe
 
-FROM [codenvy/php](https://hub.docker.com/r/codenvy/php/)
+FROM [Art2Dec](https://www.appservgrid/paw3/)
 
 # Commands to run
 
