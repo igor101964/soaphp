@@ -3,7 +3,7 @@ SOA PHP realization services
 
 # Developer Workspace
 
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=5ayat0naxlljn3p2)
+[![Contribute](http://www.appservgrid.com/images.svg)](http://www.appservgrid.com/paw3)
 
 # Recipe
 
@@ -23,4 +23,4 @@ localhost:$mappedPort/$projectName
 
 # DB access
 
-To access database, run `env | grep MYSQL` in the terminal. You will get MySQL user, password and database. `root` user is passwordless.
+To access database, run `env | grep MYSQL` in the terminal. You will get MySQL user, password and database. `root` user is passwordhide.
