@@ -7,7 +7,7 @@ SOA PHP realization services
 
 # Recipe
 
-FROM [Art2Dec](https://www.appservgrid/paw3/)
+FROM [Art2Dec](http://www.appservgrid.com/paw3/)
 
 # Commands to run
 
